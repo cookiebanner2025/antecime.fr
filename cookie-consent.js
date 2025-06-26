@@ -208,11 +208,11 @@ geoConfig: {
         transition: 'all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1)',
         
        accept: {
-    background: '#1177d0 !important',
+    background: '#DB7D26 !important',
     color: '#ffffff !important',
     border: '1px solid #1177d0 !important',
     hover: {
-        background: '#1177d0 !important',
+        background: '#DB7D26 !important',
         color: '#ffffff !important',
         transform: 'translateY(-1px) !important'
     }
@@ -255,7 +255,7 @@ geoConfig: {
     // Floating button styling
     floatingButtonStyle: {
         size: '50px',
-        background: '#1177d0 ',
+        background: '#DB7D26 ',
         iconColor: '#ffffff',
         border: '2px solid #ffffff',
         borderRadius: '50%',
